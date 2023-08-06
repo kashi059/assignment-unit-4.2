@@ -26,6 +26,7 @@ if (typeof window === 'object') {
 
 /**
  * Put all tests within this describe.
+ * 
  */
 describe('Automated tests', function () {
     describe('The original `<h1>` and `<p>` placed in a `<header>`', function () {
