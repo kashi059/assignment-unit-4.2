@@ -1,12 +1,19 @@
+body {
+   align-content: center;
+}
+
 header {
     background-color: #5a68a3;
 }
 
-h2 {
-    background-color: azure;
-}
-
 img {
-    height: 150px;
+    height: 450px;
     width:auto;
+}
+/* .info {
+    background-color: rgb(13, 26, 26);
+} */
+
+h2 {
+    background-color: black;
 }
